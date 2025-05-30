@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+.body {
+    background: #543FF0;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    width: 108.0000018155631px;
+    height: 108.0000018155631px;
+    angle: 179.94 deg;
+    border-radius: 60px;
+    border-width: 7px;
+    border: 7px solid #478FEE;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.g {
+    height: 100vh;
+    background-color: transparent;
+}
+
+.card {
+    text-align: center;
+    margin: auto;
+    padding: 67px 102px;
+    width: 669px;
+    height: 537px;
+    border-radius: 50px;
+    background: #FFFFFF;
+    box-shadow: 20px 20px 15px 5px #2B359440;
+}
+
+h1 {
+    width: 466px;
+    height: 48px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+p {
+    font-family: Inria Serif;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+#h3 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 230px;
+    height: 62px;
+    background: #533FF0;
+    border-radius: 20px;
+    font-family: Inria Serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    padding: 17px 42px;
+    border: none;
+}
+
+button:hover{
+  background-color: #4432cf;
+}
